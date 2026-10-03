@@ -31,7 +31,7 @@ export function Sidebar() {
   return (
     <nav className="fixed inset-y-0 left-0 z-50 w-64 bg-surface shadow-divi flex flex-col hidden md:flex transition-all duration-300 border-r border-border">
       <div className="flex items-center justify-center h-24">
-        <h1 className="text-primary font-bold text-2xl tracking-widest uppercase">Swarm<span className="text-dark font-light">OS</span></h1>
+        <h1 className="text-primary font-bold text-2xl tracking-widest uppercase">MOSAIC<span className="text-dark font-light"></span></h1>
       </div>
       <div className="flex-1 overflow-y-auto no-scrollbar py-6">
         <ul className="space-y-2 px-6">
